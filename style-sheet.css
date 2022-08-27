@@ -63,11 +63,6 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-.container2 img p{
-  gap: 10px;
-  padding: 20px;
-  margin-bottom: 20px;
-}
 .container2 p{
   width: 80px;
   font-size: 12px;
