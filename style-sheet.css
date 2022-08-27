@@ -60,7 +60,10 @@ body {
 }
 .container2 figure p{
   display: flex;
+  flex-direction: column;
   justify-content: center;
+}
+figure p{
   gap: 10px;
   padding: 20px;
   margin-bottom: 20px;
